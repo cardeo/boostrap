@@ -1,0 +1,132 @@
+/********************
+00. INCLUDES
+********************/
+
+@import url(normalize.css);
+
+@font-face {
+  font-family: 'Glyphicons Halflings';
+  src: url('../fonts/glyphicons-halflings-regular.eot');
+  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+}
+
+/********************
+01. STYLES 
+********************/
+
+#blog-logo img {
+	display: block;
+	max-height: 100px;
+	width: auto;
+	margin: 0 auto;
+	line-height: 0;
+}
+
+.blog-title {
+}
+
+.blog-description {
+	margin-bottom: 2em;
+}
+
+.post {
+}
+
+.post-title {
+}
+
+.post-title a {
+}
+
+.post-excerpt p {
+	margin-top: 1em;
+}
+
+.post-meta {
+	text-transform: uppercase;
+	font-size: 0.75em;
+	letter-spacing: 1px;
+	margin-bottom: 1em;
+}
+
+.post-meta a {
+}
+
+.post-meta a:hover {
+}
+
+.user-meta {
+}
+
+.user-image {
+}
+
+.user-name {
+}
+
+.user-bio {
+}
+
+.publish-meta {
+}
+
+.publish-heading {
+}
+
+.publish-date {
+}
+
+/* SINGLE POST */
+
+.post-template .post {
+}
+
+.post-template .post-header {
+	padding: 4em 0;
+}
+
+.post-content {
+	margin-bottom: 2em;
+}
+
+.post-content img {
+}
+
+.post-footer {
+}
+
+.post-footer .author {
+	margin-bottom: 2em;
+}
+
+.post-footer .share {
+	margin-bottom: 2em;
+}
+
+/* PAGINATION */
+.pagination {
+}
+
+.older-posts {
+}
+
+.newer-posts {
+}
+
+.page-number {
+}
+
+/* FOOTER */
+.site-footer {
+	margin-bottom: 4em;
+}
+
+.copyright {
+}
+
+.page-header {
+	padding-bottom: 0.5em;
+	margin: 0 0 1em 0;
+}
+
+
