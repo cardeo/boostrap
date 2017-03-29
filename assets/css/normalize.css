@@ -7,7 +7,7 @@
 /**
  * Correct `block` display not defined in IE 8/9.
  */
-
+body {content:"这是我写的一个不知道是啥东西"}
 article,
 aside,
 details,
